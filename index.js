@@ -14,7 +14,7 @@ import cli from "./utils/cli.js";
 // const log = require('./utils/log');
 import log from "./utils/log.js"
 // const compiler = require("petal-js");
-import {lexer, parser} from "petal-js";
+import {lexer, parser} from "petal-compiler";
 import path from "path";
 import fs from "fs";
 // console.log(lexer, parser)
